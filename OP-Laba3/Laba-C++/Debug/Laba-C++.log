@@ -1,0 +1,4 @@
+﻿  Laba3.cpp
+C:\Ivan\OP-Laba3\Laba-C++\Laba3.cpp(24,42): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Ivan\OP-Laba3\Laba-C++\Laba3.cpp(26,42): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  Laba-C++.vcxproj -> C:\Ivan\OP-Laba3\Laba-C++\Debug\Laba-C++.exe
